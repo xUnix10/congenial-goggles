@@ -1802,3 +1802,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 23:22:50.392] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Z1lasaur'/2552, l='ServerLevel[world]', x=-184.08, y=-5.00, z=-421.56]]
 [07Jul2025 23:22:52.387] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Z1lasaur'/2552, l='ServerLevel[world]', x=-184.08, y=-5.00, z=-421.56]]
 [07Jul2025 23:22:52.878] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Z1lasaur'/2552, l='ServerLevel[world]', x=-184.08, y=-5.00, z=-421.56]]
+[07Jul2025 23:23:23.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:23:23.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:23:36.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur was slain by Zombie
+[07Jul2025 23:25:55.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Isn't It Iron Pick]
+[07Jul2025 23:28:23.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:28:23.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:29:03.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/236, l='ServerLevel[world]', x=-219.30, y=63.00, z=-411.12] died, message: 'Farmer was slain by Zombie'
+[07Jul2025 23:30:04.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:32:07.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already

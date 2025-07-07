@@ -644,7 +644,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-07-07 20:57:43 +0000",
-      "minecraft:creeper": "2025-07-07 20:06:38 +0000"
+      "minecraft:creeper": "2025-07-07 20:06:38 +0000",
+      "minecraft:zombie": "2025-07-07 23:26:55 +0000"
     },
     "done": false
   },
@@ -675,6 +676,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-07-07 20:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-07 23:25:43 +0000"
     },
     "done": true
   },
@@ -1044,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-07 23:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-07-07 20:09:33 +0000"
@@ -1125,6 +1138,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-06 08:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-07-07 23:25:43 +0000"
     },
     "done": true
   },

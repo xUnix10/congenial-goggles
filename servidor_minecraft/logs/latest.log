@@ -115,3 +115,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 20:01:13.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 1.7275008154886677
 [07Jul2025 20:01:13.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 2.116210707851394
 [07Jul2025 20:01:13.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 2.502609352457398
+[07Jul2025 20:04:47.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=64, z=-369} BlockPos{x=-192, y=62, z=-368}
+[07Jul2025 20:06:05.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Sweet Dreams]
+[07Jul2025 20:06:38.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Monster Hunter]
+[07Jul2025 20:06:50.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was blown up by Creeper
+[07Jul2025 20:08:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Acquire Hardware]
+[07Jul2025 20:10:00.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.40126705914735794
+[07Jul2025 20:10:00.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.43457538024762243
+[07Jul2025 20:10:00.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.4645528684437181
+[07Jul2025 20:10:00.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.49153260710551194
+[07Jul2025 20:10:00.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.5158143712578749
+[07Jul2025 20:10:00.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.5376679584160797
+[07Jul2025 20:10:00.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.5573361863374089
+[07Jul2025 20:10:00.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.612046837645039
+[07Jul2025 20:10:00.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xUNIx10) moved wrongly! 0.6982956691648496
+[07Jul2025 20:12:37.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already

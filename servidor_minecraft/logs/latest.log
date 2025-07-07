@@ -130,3 +130,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 22:53:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Getting an Upgrade]
 [07Jul2025 22:56:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Monster Hunter]
 [07Jul2025 23:02:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by The Irritator
+[07Jul2025 23:03:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was doomed to fall by entity.mimicer.mimicer
+[07Jul2025 23:03:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> -250 -368
+[07Jul2025 23:04:22.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=74, z=-423} BlockPos{x=-104, y=73, z=-424}
+[07Jul2025 23:06:30.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
+[07Jul2025 23:06:39.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
+[07Jul2025 23:07:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Acquire Hardware]
+[07Jul2025 23:08:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Isn't It Iron Pick]
+[07Jul2025 23:09:47.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
+[07Jul2025 23:15:40.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/273, l='ServerLevel[world]', x=-238.52, y=63.77, z=-377.62] died, message: 'Nitwit was slain by Z1lasaur'
+[07Jul2025 23:15:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Sweet Dreams]
+[07Jul2025 23:20:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Monster Hunter]
+[07Jul2025 23:21:08.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Acquire Hardware]
+[07Jul2025 23:21:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer
+[07Jul2025 23:21:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by entity.mimicer.mimicer
+[07Jul2025 23:21:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Isn't It Iron Pick]
+[07Jul2025 23:22:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer

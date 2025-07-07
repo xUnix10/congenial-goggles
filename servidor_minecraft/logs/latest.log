@@ -238,3 +238,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 21:02:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
 [07Jul2025 21:03:39.603] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
 [07Jul2025 21:03:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Stone Age]
+[07Jul2025 21:04:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has reached the goal [Feelingwatched]
+[07Jul2025 21:05:45.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jul2025 21:05:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jul2025 21:05:45.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jul2025 21:05:45.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z1lasaur lost connection: Server closed
+[07Jul2025 21:05:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur left the game
+[07Jul2025 21:05:45.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jul2025 21:05:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Jul2025 21:05:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[07Jul2025 21:05:46.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Jul2025 21:05:46.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Jul2025 21:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jul2025 21:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[07Jul2025 21:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jul2025 21:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jul2025 21:05:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jul2025 21:05:46.767] [Server thread/INFO] [Framework/]: Unloading server configs...

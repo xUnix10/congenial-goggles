@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-07 23:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 23:14:49 +0000"
@@ -242,7 +248,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-07-07 23:05:06 +0000",
-      "cooked_beef": "2025-07-07 22:58:05 +0000"
+      "cooked_beef": "2025-07-07 22:58:05 +0000",
+      "bread": "2025-07-07 23:30:37 +0000",
+      "rotten_flesh": "2025-07-07 23:29:56 +0000",
+      "glow_berries": "2025-07-07 23:28:34 +0000"
     },
     "done": false
   },
@@ -339,6 +348,12 @@
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2025-07-07 23:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-07-07 23:35:09 +0000"
     },
     "done": true
   },
@@ -588,6 +603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-07 23:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-07-07 23:14:49 +0000"
@@ -615,6 +636,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-07 22:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-07 23:34:46 +0000"
     },
     "done": true
   },
@@ -654,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-07 23:29:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-07 20:54:28 +0000"
@@ -669,6 +702,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-07 23:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-07 23:34:46 +0000"
     },
     "done": true
   },
@@ -1233,6 +1272,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-07 23:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-07 23:29:49 +0000"
     },
     "done": true
   },

@@ -151,3 +151,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 23:29:03.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/236, l='ServerLevel[world]', x=-219.30, y=63.00, z=-411.12] died, message: 'Farmer was slain by Zombie'
 [07Jul2025 23:30:04.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
 [07Jul2025 23:32:07.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:34:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur was slain by Cave Dweller
+[07Jul2025 23:34:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was decimated by Fresita_decaida
+[07Jul2025 23:34:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer
+[07Jul2025 23:36:56.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:37:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida fell from a high place
+[07Jul2025 23:42:20.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:42:49.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already

@@ -139,3 +139,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 20:25:16.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5bf38050[id=<null>,name=Z1lasaur,properties={},legacy=false] (/127.162.81.58:51601) lost connection: Connection closed - mismatched mod channel list
 [07Jul2025 20:25:28.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
 [07Jul2025 20:25:49.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 20:38:57.418] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a2aa9b1
+[07Jul2025 20:38:57.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.140.77.46:57279] logged in with entity id 14043 at (32.5, 63.0, -371.5)
+[07Jul2025 20:38:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[07Jul2025 20:39:14.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> holas
+[07Jul2025 20:39:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ahorita bajo a comer
+[07Jul2025 20:39:41.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> no has comido ?
+[07Jul2025 20:39:46.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ñao
+[07Jul2025 20:39:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> -_-
+[07Jul2025 20:40:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ya hya de comer ?
+[07Jul2025 20:40:17.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> si creo
+[07Jul2025 20:40:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> que hay
+[07Jul2025 20:40:31.954] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 20:40:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> arroz
+[07Jul2025 20:41:36.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Stone Age]
+[07Jul2025 20:41:39.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> las cords son
+[07Jul2025 20:41:50.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> -250 -368
+[07Jul2025 20:41:53.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> esta serca
+[07Jul2025 20:41:56.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ok
+[07Jul2025 20:42:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Getting an Upgrade]

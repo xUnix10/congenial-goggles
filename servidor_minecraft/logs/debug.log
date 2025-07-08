@@ -1827,3 +1827,103 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Jul2025 23:42:20.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
 [07Jul2025 23:42:49.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
 [07Jul2025 23:43:08.259] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-111.37, y=-22.00, z=-440.90]]
+[07Jul2025 23:43:23.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:43:23.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:43:32.316] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-115.70, y=-21.25, z=-422.33]]
+[07Jul2025 23:43:38.076] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-118.70, y=-19.00, z=-421.93]]
+[07Jul2025 23:43:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Diamonds!]
+[07Jul2025 23:43:42.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:43:47.468] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-120.95, y=-24.00, z=-422.42]]
+[07Jul2025 23:43:49.368] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-125.95, y=-27.00, z=-425.46]]
+[07Jul2025 23:44:00.057] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-106.29, y=-19.00, z=-437.70]]
+[07Jul2025 23:44:07.712] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-107.85, y=-21.00, z=-435.00]]
+[07Jul2025 23:44:23.995] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-103.06, y=-28.58, z=-447.68]]
+[07Jul2025 23:44:38.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by The Irritator
+[07Jul2025 23:44:56.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:45:29.904] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.49, y=-32.00, z=-452.84]]
+[07Jul2025 23:45:40.954] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-110.97, y=-17.46, z=-441.88]]
+[07Jul2025 23:46:13.242] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.70, y=-35.00, z=-455.30]]
+[07Jul2025 23:46:24.293] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.47, y=-40.00, z=-460.70]]
+[07Jul2025 23:46:24.490] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.47, y=-40.00, z=-460.70]]
+[07Jul2025 23:46:24.893] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.47, y=-40.00, z=-460.70]]
+[07Jul2025 23:46:25.139] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.49, y=-37.00, z=-458.07]]
+[07Jul2025 23:46:25.739] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.46, y=-40.00, z=-460.74]]
+[07Jul2025 23:46:26.194] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.49, y=-37.00, z=-458.07]]
+[07Jul2025 23:46:26.939] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.30, y=-40.00, z=-461.43]]
+[07Jul2025 23:46:26.993] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.30, y=-40.00, z=-461.43]]
+[07Jul2025 23:46:29.139] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.49, y=-40.00, z=-460.62]]
+[07Jul2025 23:46:29.289] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.33, y=-40.00, z=-460.66]]
+[07Jul2025 23:46:29.639] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-98.89, y=-40.00, z=-460.75]]
+[07Jul2025 23:46:30.189] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-98.71, y=-40.00, z=-461.35]]
+[07Jul2025 23:46:33.490] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.36, y=-40.00, z=-460.30]]
+[07Jul2025 23:46:34.039] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.66, y=-40.00, z=-461.70]]
+[07Jul2025 23:46:34.193] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.66, y=-40.00, z=-461.70]]
+[07Jul2025 23:46:36.090] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.66, y=-40.00, z=-461.70]]
+[07Jul2025 23:46:36.644] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.66, y=-40.00, z=-461.70]]
+[07Jul2025 23:46:36.693] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-98.70, y=-40.00, z=-460.30]]
+[07Jul2025 23:46:36.892] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.66, y=-40.00, z=-461.70]]
+[07Jul2025 23:46:39.239] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-98.70, y=-40.00, z=-460.90]]
+[07Jul2025 23:46:39.548] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-40.77, z=-462.70]]
+[07Jul2025 23:46:40.492] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-41.00, z=-462.70]]
+[07Jul2025 23:46:41.743] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-41.00, z=-462.70]]
+[07Jul2025 23:46:41.793] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-41.00, z=-462.70]]
+[07Jul2025 23:46:44.045] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-41.08, z=-463.63]]
+[07Jul2025 23:46:44.406] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-42.00, z=-463.70]]
+[07Jul2025 23:46:44.839] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.70, y=-42.00, z=-463.70]]
+[07Jul2025 23:46:45.242] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.68, y=-40.00, z=-462.29]]
+[07Jul2025 23:46:47.089] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.69, y=-41.00, z=-462.70]]
+[07Jul2025 23:46:51.450] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.63, y=-42.00, z=-463.83]]
+[07Jul2025 23:46:51.499] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.64, y=-42.00, z=-463.83]]
+[07Jul2025 23:46:51.945] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.70, y=-41.50, z=-464.31]]
+[07Jul2025 23:46:53.141] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.67, y=-42.00, z=-464.02]]
+[07Jul2025 23:46:54.945] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.47, y=-42.00, z=-464.30]]
+[07Jul2025 23:46:56.252] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-99.45, y=-44.00, z=-465.72]]
+[07Jul2025 23:46:56.939] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-99.47, y=-42.00, z=-464.30]]
+[07Jul2025 23:47:20.494] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-96.22, y=-45.00, z=-464.10]]
+[07Jul2025 23:47:27.117] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-96.22, y=-45.00, z=-464.10]]
+[07Jul2025 23:47:28.956] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/197, l='ServerLevel[world]', x=-96.22, y=-45.00, z=-464.10]]
+[07Jul2025 23:47:37.720] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-91.59, y=-47.00, z=-468.26]]
+[07Jul2025 23:47:50.912] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 145
+[07Jul2025 23:48:23.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:48:23.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:50:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Enderman
+[07Jul2025 23:51:07.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/316, l='ServerLevel[world]', x=-241.40, y=66.00, z=-399.50] died, message: 'Cartographer was slain by Zombie Lumberjack'
+[07Jul2025 23:51:17.290] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/444, l='ServerLevel[world]', x=-53.83, y=-44.00, z=-444.30]]
+[07Jul2025 23:53:23.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:53:23.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:54:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Cave Dweller
+[07Jul2025 23:55:58.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[07Jul2025 23:58:23.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:58:23.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:02:08.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[08Jul2025 00:03:12.390] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[08Jul2025 00:03:12.390] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[08Jul2025 00:03:12.836] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[08Jul2025 00:03:12.836] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[08Jul2025 00:03:12.843] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@7e0bc8a3
+[08Jul2025 00:03:12.843] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[08Jul2025 00:03:12.851] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[08Jul2025 00:03:12.852] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[08Jul2025 00:03:12.884] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 12a37b6a-ef89-4f2c-a2b8-344bd4943870
+[08Jul2025 00:03:12.906] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 16caaa59-9aaa-41f1-8bd3-8e99de098775
+[08Jul2025 00:03:12.906] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/congenial-goggles/servidor_minecraft/./crash-reports/crash-2025-07-08_00.03.12-server.txt
+[08Jul2025 00:03:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 00:03:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 00:03:13.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z1lasaur lost connection: Server closed
+[08Jul2025 00:03:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur left the game
+[08Jul2025 00:03:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 00:03:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 00:03:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 00:03:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[08Jul2025 00:03:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 00:03:14.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:03:14.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 00:03:14.532] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jul2025 00:03:14.533] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[08Jul2025 00:03:14.533] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08Jul2025 00:03:14.534] [Thread-0/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file jei-server.toml changed, sending notifies

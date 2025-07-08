@@ -1,160 +1,21 @@
-[07Jul2025 22:42:50.420] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[07Jul2025 22:42:50.423] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[07Jul2025 22:42:51.019] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/congenial-goggles/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[07Jul2025 22:42:51.382] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jul2025 22:42:51.385] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jul2025 22:42:51.388] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jul2025 22:42:51.391] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[07Jul2025 22:42:51.558] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[07Jul2025 22:42:53.583] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jul2025 22:42:53.598] [main/ERROR] [mixin/]: Mixin config firstperson.mixins.json does not specify "minVersion" property
-[07Jul2025 22:42:53.705] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[07Jul2025 22:42:53.707] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[07Jul2025 22:42:53.712] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Jul2025 22:42:53.784] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
-[07Jul2025 22:42:54.036] [main/WARN] [mixin/]: Error loading class: atomicstryker/multimine/client/MultiMineClient (java.lang.ClassNotFoundException: atomicstryker.multimine.client.MultiMineClient)
-[07Jul2025 22:42:54.037] [main/WARN] [mixin/]: @Mixin target atomicstryker.multimine.client.MultiMineClient was not found treechop.forge.compat.mixins.json:MultiMineMixin
-[07Jul2025 22:42:54.190] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[07Jul2025 22:42:54.191] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[07Jul2025 22:42:54.191] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[07Jul2025 22:42:54.192] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[07Jul2025 22:42:54.192] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[07Jul2025 22:42:54.192] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[07Jul2025 22:42:54.214] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[07Jul2025 22:42:54.214] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[07Jul2025 22:42:54.262] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[07Jul2025 22:42:59.624] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[07Jul2025 22:43:02.246] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[07Jul2025 22:43:02.376] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[07Jul2025 22:43:02.379] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[07Jul2025 22:43:02.547] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[07Jul2025 22:43:02.550] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[07Jul2025 22:43:02.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@4fc6dcb7 has been registered twice for the same name treechop:chop_wood.
-[07Jul2025 22:43:04.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
-[07Jul2025 22:43:04.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
-[07Jul2025 22:43:04.709] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[07Jul2025 22:43:04.749] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
-[07Jul2025 22:43:04.750] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
-[07Jul2025 22:43:04.750] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
-[07Jul2025 22:43:05.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.19.2-1.4.5 Target: null
-[07Jul2025 22:43:05.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07Jul2025 22:43:05.627] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23152!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23152!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
-	... 6 more
-[07Jul2025 22:43:05.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jul2025 22:43:05.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[07Jul2025 22:43:06.541] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jul2025 22:43:07.526] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23151!/assets/.mcassetsroot' uses unexpected schema
-[07Jul2025 22:43:07.526] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/congenial-goggles/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23151!/data/.mcassetsroot' uses unexpected schema
-[07Jul2025 22:43:11.894] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[07Jul2025 22:43:12.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[07Jul2025 22:43:13.131] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
-
-[07Jul2025 22:43:13.177] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1312 advancements
-[07Jul2025 22:43:13.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[07Jul2025 22:43:13.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jul2025 22:43:13.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jul2025 22:43:13.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jul2025 22:43:14.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jul2025 22:43:14.110] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jul2025 22:43:14.211] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07Jul2025 22:43:14.211] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[07Jul2025 22:43:14.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07Jul2025 22:43:14.212] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[07Jul2025 22:43:14.230] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[07Jul2025 22:43:14.239] [Thread-0/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[07Jul2025 22:43:14.241] [Thread-0/INFO] [de.cadentem.irritator.Irritator/]: Server configuration has been reloaded
-[07Jul2025 22:43:14.443] [Server thread/INFO] [Framework/]: Loading server configs...
-[07Jul2025 22:43:14.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Jul2025 22:43:15.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jul2025 22:43:19.786] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.787] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.836] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.885] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.910] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.980] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:19.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:20.099] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:20.603] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:21.101] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:21.630] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jul2025 22:43:22.098] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[07Jul2025 22:43:22.598] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[07Jul2025 22:43:23.105] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[07Jul2025 22:43:23.456] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8359 ms
-[07Jul2025 22:43:23.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.235s)! For help, type "help"
-[07Jul2025 22:43:23.479] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jul2025 22:43:23.479] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
-[07Jul2025 22:43:48.208] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7151d972
-[07Jul2025 22:43:48.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.162.81.58:37551] logged in with entity id 197 at (-254.7475445395119, 69.5, -409.52065065290196)
-[07Jul2025 22:43:48.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
-[07Jul2025 22:44:35.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fd1634d
-[07Jul2025 22:44:35.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.140.77.46:40171] logged in with entity id 444 at (24.752534789158613, 62.0, -372.83186061355775)
-[07Jul2025 22:44:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
-[07Jul2025 22:44:56.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> cuidame
-[07Jul2025 22:45:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> voy a brirle a leo
-[07Jul2025 22:45:03.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> t
-[07Jul2025 22:45:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Scarlet Persecutor
-[07Jul2025 22:45:24.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> hermano
-[07Jul2025 22:45:29.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> hay un coso blanco
-[07Jul2025 22:46:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> donde estas ?
-[07Jul2025 22:48:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> par que sirven los espiritus ?
-[07Jul2025 22:48:30.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ni idea
-[07Jul2025 22:48:36.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> deja guardo cosas
-[07Jul2025 22:48:44.690] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 22:49:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> llamada?
-[07Jul2025 22:49:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ta bien
-[07Jul2025 22:49:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> por donde ?
-[07Jul2025 22:49:30.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> whatsa
-[07Jul2025 22:49:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> dale
-[07Jul2025 22:52:03.601] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6098029e
-[07Jul2025 22:52:03.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z1lasaur[/127.162.81.58:32909] logged in with entity id 2552 at (24.652476267360452, 71.0, -438.6785076883995)
-[07Jul2025 22:52:03.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur joined the game
-[07Jul2025 22:52:37.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 22:53:00.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 22:53:38.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Getting an Upgrade]
-[07Jul2025 22:56:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Monster Hunter]
-[07Jul2025 23:02:18.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by The Irritator
-[07Jul2025 23:03:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was doomed to fall by entity.mimicer.mimicer
-[07Jul2025 23:03:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> -250 -368
-[07Jul2025 23:04:22.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=74, z=-423} BlockPos{x=-104, y=73, z=-424}
-[07Jul2025 23:06:30.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 23:06:39.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 23:07:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Acquire Hardware]
-[07Jul2025 23:08:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Isn't It Iron Pick]
-[07Jul2025 23:09:47.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_stalking but it was marked as removed already
-[07Jul2025 23:15:40.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/273, l='ServerLevel[world]', x=-238.52, y=63.77, z=-377.62] died, message: 'Nitwit was slain by Z1lasaur'
-[07Jul2025 23:15:48.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Sweet Dreams]
-[07Jul2025 23:20:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Monster Hunter]
-[07Jul2025 23:21:08.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Acquire Hardware]
-[07Jul2025 23:21:28.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer
-[07Jul2025 23:21:47.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by entity.mimicer.mimicer
-[07Jul2025 23:21:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur has made the advancement [Isn't It Iron Pick]
-[07Jul2025 23:22:49.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer
-[07Jul2025 23:23:36.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur was slain by Zombie
-[07Jul2025 23:25:55.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Isn't It Iron Pick]
-[07Jul2025 23:29:03.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/236, l='ServerLevel[world]', x=-219.30, y=63.00, z=-411.12] died, message: 'Farmer was slain by Zombie'
-[07Jul2025 23:30:04.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
-[07Jul2025 23:32:07.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
-[07Jul2025 23:34:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur was slain by Cave Dweller
-[07Jul2025 23:34:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was decimated by Fresita_decaida
-[07Jul2025 23:34:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by entity.mimicer.mimicer
-[07Jul2025 23:36:56.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
-[07Jul2025 23:37:21.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida fell from a high place
-[07Jul2025 23:42:20.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
-[07Jul2025 23:42:49.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_one_who_watches:toww_staring but it was marked as removed already
+[08Jul2025 00:02:08.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[08Jul2025 00:03:12.390] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[08Jul2025 00:03:12.390] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[08Jul2025 00:03:12.884] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 12a37b6a-ef89-4f2c-a2b8-344bd4943870
+[08Jul2025 00:03:12.906] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 16caaa59-9aaa-41f1-8bd3-8e99de098775
+[08Jul2025 00:03:12.906] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/congenial-goggles/servidor_minecraft/./crash-reports/crash-2025-07-08_00.03.12-server.txt
+[08Jul2025 00:03:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 00:03:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 00:03:13.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z1lasaur lost connection: Server closed
+[08Jul2025 00:03:13.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z1lasaur left the game
+[08Jul2025 00:03:13.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 00:03:14.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 00:03:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 00:03:14.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[08Jul2025 00:03:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 00:03:14.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 00:03:14.532] [Server thread/INFO] [Framework/]: Unloading server configs...
